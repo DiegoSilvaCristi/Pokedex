@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import Link from 'next/link';
-import { Button, Card, Col, Pagination, Row } from 'antd';
+import { Button, Card, Col, Pagination, Row } from 'antd/lib';
 
 interface Sprite {
   front_default: string;
