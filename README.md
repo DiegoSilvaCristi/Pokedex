@@ -1,3 +1,31 @@
+# Examedi Pokedex
+
+## Sobre el proyecto
+
+Este proyecto fue realizado personalmente como prueba técnica para el proceso de selección de Examedi. 
+
+El proyecto consiste en una Pokedex, la cual muestra una lista de pokemones y permite ver los detalles de cada uno de ellos.
+
+## Tecnologías utilizadas
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Ant Design](https://ant.design/)
+- [PokeAPI](https://pokeapi.co/)
+- [Vercel](https://vercel.com/)
+- [ESLint](https://eslint.org/)
+
+## Consideraciones personales
+
+A modo personal, llevo un tiempo alejado del desarrollo frontend como tal, por lo que además de presentar algunos problemas con unos trámites de la universidad (gracias por el tiempo extra), tuve que dedicar más tiempo al desarrollo con el fin de cumplir con el proyecto. 
+
+Quería poder utilizar componentes como el Head que hice, pero me encontré con problemas para su instalación, por lo que tuve que desistir de la idea en pos del tiempo e importar en cada página lo que necesitaba. Sé que no es ideal y me habría encantado poder utilizar los componentes y el layput para envolver las páginas pero no lo logré.
+
+En el proceso de investigación y avances, además de utilizar la documentación oficial de las herramientas de acuerdo a lo que se menciona más arriba, también utilicé herramientas de inteligancia artificial como Chat GPT y Copilot para entender el código y obtener propuestas sobre las que avanzar. 
+
+# Next Readme:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

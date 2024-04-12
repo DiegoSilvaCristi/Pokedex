@@ -8,6 +8,12 @@
     color: #333;
 }
 
+.paragraph{
+    width: 800px;
+    text-align: center;
+    text-align: justify;
+}
+
 
 .buttons{
     display: flex;

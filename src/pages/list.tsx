@@ -68,9 +68,13 @@ export default function List() {
       </div>
       <div>
         <h1>List view</h1>
+        <br></br>
+        <br></br>
         <Link href="/">
           <Button>Back</Button>
         </Link>
+        <br></br>
+        <br></br>
         <Row gutter={[50, 50]}>
           {pokemons.map((pokemon, index) => (
             <Col span={4} key={index}>
@@ -95,6 +99,8 @@ export default function List() {
         </Row>
       </div>
       <div>
+      <br></br>
+      <br></br>
         <Pagination
             defaultCurrent={1}
             total={1015}
